@@ -1,4 +1,5 @@
 
+# that includes a constructor with default parameters.
 
 class Dog:
     def __init__(self, name,breed="Mutt"):
